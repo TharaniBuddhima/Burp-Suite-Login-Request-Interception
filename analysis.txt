@@ -1,0 +1,3 @@
+Login request captured using POST method.
+Credentials visible in plain text.
+Tested request using Repeater.
